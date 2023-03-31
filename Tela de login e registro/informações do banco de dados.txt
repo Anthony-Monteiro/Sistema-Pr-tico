@@ -1,0 +1,16 @@
+Cadastro de Cliente
+
+Nome: 
+Sobrenome: 
+Sexo: Masculino  Feminino 
+Data de Nascimento: dd/mm/aaaa
+CPF: 
+E-mail: 
+Senha: 
+
+link de acesso ao banco: http://phpmyadmin.locaweb.com.br/
+bando de dados: dspwiii
+usuario: dspwiii
+Descrição: Banco de teste
+Servidor: dspwiii.mysql.dbaas.com.br ou 179.188.16.95
+senha: Dspw3@
